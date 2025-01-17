@@ -26,8 +26,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate software developer with a fo
 ---
 
 ## 🛠️ My Tech Toolbox
-- **Frontend:** React, Redux, HTML/CSS, TailwindCSS, Material UI
-- **Backend:** Node.js, Express, Python
+- **Frontend:** React, Redux, HTML/CSS, TailwindCSS, Material UI, Chakra UI
+- **Backend:** Node.js, Express, Python, Golang
 - **Database:** MongoDB, MySQL
 - **Blockchain:** Ether.js, Solidity
 - **Other:** Git, GitHub, RESTful APIs
